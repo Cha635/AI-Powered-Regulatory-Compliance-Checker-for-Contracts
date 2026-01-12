@@ -7,5 +7,4 @@ venv
 *.csv
 *.pdf
 *.json
-*.txt
 service_account.json
