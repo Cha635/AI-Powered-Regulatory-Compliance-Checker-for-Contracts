@@ -1,0 +1,44 @@
+Service Agreement
+This Service Agreement ("Agreement") is entered into by and between the
+Client and the Service Provider as of the effective date agreed upon by both
+parties. This Agreement sets forth the terms and conditions under which
+services will be provided.
+1. Definitions
+For the purposes of this Agreement, words and expressions shall have the
+meanings commonly assigned to them unless otherwise defined herein.
+2. Scope of Services
+The Service Provider shall provide services to the Client as described in the
+applicable statements of work or written communications mutually agreed
+upon.
+3. Term and Termination
+This Agreement shall commence on the effective date and shall continue
+until terminated by either party by providing written notice in accordance
+with this Agreement.
+4. Payment Terms
+The Client agrees to pay the Service Provider the fees specified in the agreed
+payment schedule. All payments shall be made within the stipulated time
+period.
+5. Confidentiality
+Each party agrees to keep confidential any non-public, proprietary, or
+sensitive information disclosed during the term of this Agreement.
+The Service Provider may collect, process, store, and retain personal data related to the services for an indefinite period without clearly defining the purpose, legal basis, or retention limits. The Agreement does not specify mechanisms for data subject access, correction, or deletion requests.
+The Service Provider shall collect, process, store, and retain personal data related to the services for a period not exceeding the duration of the Agreement and as necessary to fulfill the purpose of the Agreement, which shall be specified in a separate data processing agreement that complies with the requirements of GDPR Articles 5, 6, 12-14, 17, and 25. The Service Provider shall establish and maintain mechanisms for data subject access, correction, or deletion requests, and shall respond to such requests in accordance with the timelines and requirements set forth in the GDPR.
+7. Intellectual Property
+All intellectual property rights arising from or related to the services shall
+remain with the respective owning party unless otherwise agreed in writing.
+8. Subcontracting
+The Service Provider may engage third-party subcontractors for the
+performance of services, provided that responsibility for service delivery
+remains with the Service Provider.
+9. Compliance with Laws
+Each party shall use reasonable efforts to comply with applicable laws and
+regulations in connection with its obligations under this Agreement.
+The Service Provider does not provide any assurance regarding the implementation of industry-standard technical or organizational security measures. In the event of a security incident or data breach, the Service Provider is not obligated to notify the Client or any regulatory authority within a specified timeframe.
+The Service Provider shall implement industry-standard technical and organizational security measures to protect the Client's data, as required by applicable laws and regulations, including but not limited to GDPR, HIPAA, SOC2, and ISO27001. In the event of a security incident or data breach, the Service Provider shall notify the Client and, where required by applicable laws and regulations, the relevant regulatory authorities, without undue delay and within the timeframe mandated by such laws and regulations, including but not limited to 72 hours as required by GDPR Article 33.
+11. Limitation of Liability
+To the maximum extent permitted by law, neither party shall be liable for
+indirect, incidental, or consequential damages arising from this Agreement.
+12. Governing Law and Jurisdiction
+This Agreement shall be governed by and construed in accordance with the
+laws of the applicable jurisdiction, without regard to conflict of law
+principles.
